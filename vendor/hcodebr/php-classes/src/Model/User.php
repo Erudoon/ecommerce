@@ -9,11 +9,7 @@ use \Hcode\Cipher;
 
 class User extends Model{
 
-    static $key;
-    static $IV;
-
     const SESSION = "User";
-    const CIFRA = 'AES-256-CBC';
 
     public static function login($login, $password)
     {
