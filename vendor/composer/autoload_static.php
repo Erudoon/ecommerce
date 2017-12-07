@@ -44,6 +44,7 @@ class ComposerStaticInit199d2cb022d517b15610c8f04f344216
         'Hcode\\Mailer' => __DIR__ . '/..' . '/hcodebr/php-classes/src/Mailer.php',
         'Hcode\\Model' => __DIR__ . '/..' . '/hcodebr/php-classes/src/Model.php',
         'Hcode\\Model\\Category' => __DIR__ . '/..' . '/hcodebr/php-classes/src/Model/Category.php',
+        'Hcode\\Model\\Product' => __DIR__ . '/..' . '/hcodebr/php-classes/src/Model/Product.php',
         'Hcode\\Model\\User' => __DIR__ . '/..' . '/hcodebr/php-classes/src/Model/User.php',
         'Hcode\\Page' => __DIR__ . '/..' . '/hcodebr/php-classes/src/Page.php',
         'Hcode\\PageAdmin' => __DIR__ . '/..' . '/hcodebr/php-classes/src/PageAdmin.php',

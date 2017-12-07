@@ -12,6 +12,7 @@ return array(
     'Hcode\\Mailer' => $vendorDir . '/hcodebr/php-classes/src/Mailer.php',
     'Hcode\\Model' => $vendorDir . '/hcodebr/php-classes/src/Model.php',
     'Hcode\\Model\\Category' => $vendorDir . '/hcodebr/php-classes/src/Model/Category.php',
+    'Hcode\\Model\\Product' => $vendorDir . '/hcodebr/php-classes/src/Model/Product.php',
     'Hcode\\Model\\User' => $vendorDir . '/hcodebr/php-classes/src/Model/User.php',
     'Hcode\\Page' => $vendorDir . '/hcodebr/php-classes/src/Page.php',
     'Hcode\\PageAdmin' => $vendorDir . '/hcodebr/php-classes/src/PageAdmin.php',
